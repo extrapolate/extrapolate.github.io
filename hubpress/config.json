@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "extrapolate",
-    "repositoryName": "extrapolate.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"extrapolate","repositoryName":"extrapolate.github.io","branch":"master"},"site":{"url":"https://extrapolate.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//extrapolate.github.io/themes/Casper"}}
