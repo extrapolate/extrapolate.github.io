@@ -1,4 +1,5 @@
 = Define Extrapolate
+:hp-tags: About
 
 Extrapolate is a blog.
 
